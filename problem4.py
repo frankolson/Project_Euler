@@ -38,5 +38,6 @@ def is_highest_palindrome( n ):
 
 
 print is_highest_palindrome(3)
+print ''
 
 
