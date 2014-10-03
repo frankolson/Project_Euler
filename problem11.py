@@ -1,4 +1,4 @@
-### Project Euler Problem 1
+### Project Euler Problem 11
 ### Will Olson
 ### 27 February 2014
 ### Python 2.7.6
